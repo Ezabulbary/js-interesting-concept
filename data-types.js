@@ -1,3 +1,5 @@
 let a = 33;
 
-console.log(a);
+// let a = 'bagerhat';
+
+console.log(typeof a);
