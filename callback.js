@@ -8,4 +8,3 @@ function processUserInput(callback) {
 }
 
 processUserInput(greeting);
-
